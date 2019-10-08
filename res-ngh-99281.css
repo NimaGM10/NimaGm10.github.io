@@ -1,0 +1,190 @@
+h1{/*S=SHAREDcode_font-family: 'Mansalva', cursive;_*/
+    text-align:center;
+    font-size:85px;
+    font-family:'Mansalva' ,cursive;
+    color: white;
+    margin:35px;
+}
+h2{/*S=SHAREDcode*/
+    position: absolute;
+    text-align:right;
+    left:-38px;
+    top:14%;
+    margin: 130px;
+    font-size:35px;
+    color:white;
+    font-family:'Mansalva' ,cursive;
+}
+.titleBox{/*S=SHAREDcode*/
+    position: absolute;
+    z-index: -1;
+    height:25%;
+    width:100%;
+    top:0%;
+    left:0%;
+    background-color: darkslategrey;
+}
+.sideBox{/*S=SHAREDcode*/
+    position: absolute;
+    z-index: -1;
+    height:72%;
+    width:37%;
+    background-color: teal;
+    top:27%;
+    left:0%;
+}
+.workExp{/*S=SHAREDcode*/
+    position: absolute;
+    left: 3%;
+    padding:1%;
+    top: 40%;
+    width:28%;
+    font-size:23px;
+    font-family:'Mansalva' ,cursive;
+}
+.reference{/*S=SHAREDcode*/
+    position: absolute;
+    left:3%;
+    padding:1%;
+    top:87%;
+    width:28%;
+    font-size:23px;
+    font-family:'Mansalva' ,cursive;
+}
+.homePage{/*S=SHAREDcode*/
+    position: absolute;
+    left:3%;
+    top:52%;
+    padding:1%;
+    width:28%;
+    font-size:23px;
+    font-family:'Mansalva' ,cursive;
+}
+.contact{/*S=SHAREDcode*/
+    position: absolute;
+    left:3%;
+    padding:1%;
+    top:63%;
+    width:28%;
+    font-size:23px;
+    font-family:'Mansalva' ,cursive;
+}
+.about{/*S=SHAREDcode*/
+    position: absolute;
+    left:3%;
+    padding:1%;
+    top:75%;
+    width:28%;
+    font-size:23px;
+    font-family:'Mansalva' ,cursive;
+}
+.referenceImg{/*S=SHAREDcode*/
+    position: absolute; 
+    left:17%;
+    top:86.5%;
+}
+.workExpImg{/*S=SHAREDcode*/
+    position: absolute;
+    left:17%;
+    top: 38%;
+}
+.homePageImg{/*S=SHAREDcode*/
+    position: absolute;
+    left:17%;
+    top: 50%;
+}
+.contactImg{/*S=SHAREDcode*/
+    position: absolute;
+    left:17%;
+    top: 62.5%;
+}
+.aboutImg{/*S=SHAREDcode*/
+    position: absolute;
+    left:17%;
+    top: 75%;
+}
+.mainBox{
+    position:absolute;
+    z-index:-1;
+    width: 62%;
+    height:72%;
+    background-color:teal;
+    left:38%;
+    top: 27%;  
+    text-align:center;
+    font-family: 'Mansalva', cursive;
+    font-size:40px;
+    color:white;
+}
+.labelBox{
+    position: absolute;
+    border: 2px solid white;
+    padding-left:35px;
+    padding-top:20px;
+    padding-right: 380px;
+    padding-bottom:50px; 
+    font-size:30px;
+    font-family:monospace;
+    color:white;
+    left:45%;
+    top:32%;
+}
+.addBox{
+    position: absolute;
+    color:white;
+    left:65%;
+    top:35%;
+}
+.numBox{
+    position: absolute;
+    color:white;
+    left:54%;
+    top:40%;
+}
+.oneBox{
+    position: absolute;
+    color:white;
+    left:47%;
+    top:50%;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.listOne{
+    position: absolute;
+    color:white;
+    font-size:20px;
+    left:46%;
+    top: 53%;
+}
+.volBox{
+    position: absolute;
+    color:white;
+    font-size:20px;
+    left:46%;
+    top:82%;
+}
+.twoBox{
+    position: absolute;
+    color:white;
+    left:47%;
+    top:79%;
+    font-size:20px;
+    text-decoration: underline;
+}
+.message{
+    position: absolute;
+    color:white;
+    left:47%;
+    top:93%;
+    font-size:25px;
+    font-family: 'Mansalva' ,cursive;
+    font-weight: bold;
+}
+.box{
+    position: absolute;
+    border:2px solid white;
+    width:46%;
+    height:44%;
+    left:45%;
+    top:48%;
+}
